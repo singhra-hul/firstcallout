@@ -1,0 +1,14 @@
+{
+  "records": [
+    {
+      "id": "001",
+      "name": "John Doe",
+      "status": "active"
+    },
+    {
+      "id": "002",
+      "name": "Jane Smith",
+      "status": "inactive"
+    }
+  ]
+}
