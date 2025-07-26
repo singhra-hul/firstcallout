@@ -1,14 +1,14 @@
 {
   "records": [
     {
-      "firstName": "Rahul",
+      "firstName": "RAHUL",
       "lastName": "Singh",
       "email": "rahulsingh@test.com"
     },
     {
       "firstName": "Shreya",
       "lastName": "Singh",
-      "email": "shreyasingh@test.com"
+      "email": "nishisingh@test.com"
     }
   ]
 }
