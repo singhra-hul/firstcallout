@@ -1,14 +1,14 @@
 {
   "records": [
     {
-      "id": "001",
-      "name": "John Doe",
-      "status": "active"
+      "firstName": "Rahul",
+      "lastName": "Singh",
+      "email": "rahulsingh@test.com"
     },
     {
-      "id": "002",
-      "name": "Jane Smith",
-      "status": "inactive"
+      "firstName": "Shreya",
+      "lastName": "Singh",
+      "email": "shreyasingh@test.com"
     }
   ]
 }
