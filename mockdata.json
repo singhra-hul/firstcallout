@@ -4,13 +4,13 @@
       "firstName": "RAHUL",
       "lastName": "Singh",
       "email": "rahulsingh1@test.com"
-      "score": "9"
+      "score": 9
     },
     {
       "firstName": "Shreya",
       "lastName": "Singh",
       "email": "nishisingh1@test.com"
-      "score": "8"
+      "score": 8
     }
   ]
 }
