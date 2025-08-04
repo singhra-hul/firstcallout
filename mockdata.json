@@ -3,12 +3,14 @@
     {
       "firstName": "RAHUL",
       "lastName": "Singh",
-      "email": "rahulsingh@test.com"
+      "email": "rahulsingh1@test.com"
+      "score": "9"
     },
     {
       "firstName": "Shreya",
       "lastName": "Singh",
-      "email": "nishisingh@test.com"
+      "email": "nishisingh1@test.com"
+      "score": "8"
     }
   ]
 }
